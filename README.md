@@ -1,9 +1,14 @@
 # Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The client, DriverPass, wanted a system that helped students pass their driving tests. This system needed the functionality to provide students access to online course material that is up-to-date with DMV regulations. The system also needed to manage in-person driving reservations made by students or by an employee.
 
 # What did you do particularly well?
+What I did particularly well was interpreting user needs into the objectives and goals the system should be able to do. Specifically, by carefully analyzing the provided client interview, system functionality was acquired for each user type that would interact with the system.
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+The part I would improve is the project limitations section located in the business requirements. To improve this section, I would more carefully analyze the diagrams made so far for the system, as well as the nonfunctional and functional requirements, to determine exactly what the system cannot do given its current design and requirements.
 
 # How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+My process of interpreting and incorporating user needs into the system design is fairly simple. First, I analyzed what the client said they wanted the system to do. Then, I imagined myself as various users using the system to be designed. During this roleplay, I noted down what I would like to see. Afterwards, I combined both the client's statements and my own notes, which gave me a thorough understanding of what elements the system should have. I further broke down these notes into more detail, which were incorporated into the system design. By considering the user's needs, the system design can be guided toward a design that primarily benefits the user.
 
 # How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+My process of designing software begins by understanding the user needs, using the process stated above. I break down my notes into smaller details by analyzing each line written and brainstorming ways to make that note a reality within the system. This commonly takes the form of quick small sketches of class diagrams or activity diagrams. Once I have analyzed my notes into these hasty designs, I begin refining the designs, for example by relating each separate class diagram with each other and reducing complexity. This refining stage usually is repeated until I am satisfied with the resulting detail. For future projects, I plan to utilize more appropriate UML diagrams, for example activity diagrams, to better model different aspects of the system.
